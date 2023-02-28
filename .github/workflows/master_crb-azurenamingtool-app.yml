@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'crb-azurenamingtool-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2793A3425494358B5018372CEF19A3C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BC31B8480EA4A209979CECAEF83B8A7 }}
           package: .
